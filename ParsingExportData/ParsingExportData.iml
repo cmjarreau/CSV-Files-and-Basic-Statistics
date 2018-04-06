@@ -7,28 +7,6 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="file://$USER_HOME$/coursera/course2-java/duke/commons-csv-1.5" />
-        </CLASSES>
-        <JAVADOC>
-          <root url="file://$USER_HOME$/coursera/course2-java/duke/commons-csv-1.5/apidocs" />
-        </JAVADOC>
-        <SOURCES />
-        <jarDirectory url="file://$USER_HOME$/coursera/course2-java/duke/commons-csv-1.5" recursive="false" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
-          <root url="jar://$USER_HOME$/coursera/course2-java/duke/courserajava.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="jar://$USER_HOME$/coursera/course2-java/duke/courserajava.jar!/" />
-        </SOURCES>
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="ParsingExportData" level="project" />
   </component>
 </module>

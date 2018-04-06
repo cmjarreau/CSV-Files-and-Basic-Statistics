@@ -137,6 +137,7 @@ public class Runner {
         System.out.format("The coldest day was in file : %s", coldestFile);
 
         // what year - 2012, 2013, 2014, 2015
+        //String fileResourcePath = "data/2013/"+coldestFile;
         String fileResourcePath = "data/2013/"+coldestFile;
         //if (coldestFile.contains("2012")) {
         //    fileResourcePath = fileResourcePath.concat("2012/"+coldestFile);
