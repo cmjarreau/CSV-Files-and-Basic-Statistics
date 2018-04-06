@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ParsingExportData:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ParsingExportData_jar</output-path>
+    <root id="archive" name="ParsingExportData.jar">
+      <element id="module-output" name="ParsingExportData" />
+      <element id="extracted-dir" path="$USER_HOME$/coursera/course2-java/duke/commons-csv-1.5/commons-csv-1.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/coursera/course2-java/duke/commons-csv-1.5/commons-csv-1.5-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/coursera/course2-java/duke/courserajava.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
